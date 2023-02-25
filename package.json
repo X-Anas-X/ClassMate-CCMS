@@ -1,0 +1,9 @@
+{
+  "name": "CCMS",
+  "version": "0.0.1",
+  "description": "Comprehensive Classroom Management System",
+  "main": "index.js",
+  "repository": "https://github.com/X-Anas-X/ClassMate-CCMS",
+  "author": "Anas Zain",
+  "license": "MIT"
+}
